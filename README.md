@@ -43,6 +43,14 @@ Backend-focused developer interested in API design, software architecture, and d
 
 </div>
 
+## Contribution Activity
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliDawood55&bg_color=0d1117&color=c9d1d9&line=2ea043&point=3fb950&area=true&hide_border=true)](https://github.com/AliDawood55)
+
+</div>
+
 ---
 
 <div align="center">
