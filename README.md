@@ -35,10 +35,10 @@ I'm a backend-focused developer interested in designing and building dependable 
 
 | Project | Description | Technologies |
 |---|---|---|
+| [MedOrbit](https://github.com/AliDawood55/MedOrbit) | Smart healthcare platform featuring appointments, medical records, AI-assisted care, and event-driven services. | Node.js · Express · FastAPI · PostgreSQL · Kafka |
+| [HealthPal Platform API](https://github.com/AliDawood55/healthpal-platform-api) | Healthcare REST API connecting patients, clinicians, donors, and volunteers with appointments and care coordination. | Backend · REST API |
+| [Bazar System](https://github.com/AliDawood55/bazar-system) | Distributed online bookstore built with microservices, replication, caching, and round-robin load balancing. | Python · Flask · Docker |
 | [USB Sentinel](https://github.com/AliDawood55/USB-Sentinel) | Offline-first USB malware scanning tool with a read-only-by-default approach. | C17 · Windows · Linux |
-| [ML Skill Evaluator](https://github.com/AliDawood55/ML-Skill-Evaluator) | Machine-learning powered learning assessment and personalized study-plan generation. | Python · FastAPI · ML |
-| [HealthPal Platform API](https://github.com/AliDawood55/healthpal-platform-api) | REST API for a healthcare platform connecting patients, doctors, and support services. | Backend · REST API |
-| [Bazar System](https://github.com/AliDawood55/bazar-system) | Distributed online bookstore built with microservices and performance-focused components. | Python · Flask · Docker |
 
 ## GitHub Analytics
 
